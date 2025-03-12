@@ -1,1 +1,2 @@
 Primeira alteração.
+O professor Alexandre é muito gente boa, apesar de ter uma aparência um pouco amedrontadora, ele é uma pessoa bem divertida e carismática. Ele está nos ensinando a usar o git e o GitHub, o que tem sido uma tarefa bem simples por enquanto. 
