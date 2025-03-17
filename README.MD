@@ -1,0 +1,1 @@
+Alterações de commit feitas no editor padrão.
